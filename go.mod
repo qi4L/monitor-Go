@@ -1,6 +1,6 @@
 module monitor-Go
 
-go 1.21.1
+go 1.21
 
 require github.com/gookit/color v1.5.4
 
